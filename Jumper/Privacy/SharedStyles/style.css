@@ -1,0 +1,18 @@
+html, body {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #fffff;
+}
+
+.privacy-policy-container{
+  width: 70%;
+  margin: 0 auto;
+}
+
+.copyright{
+  width: 30%;
+  text-align: center;
+  margin: 0 auto;
+}
